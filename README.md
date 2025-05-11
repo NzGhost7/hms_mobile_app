@@ -1,6 +1,53 @@
-# hms_mobile_app
+# HMS Mobile App
 
-A new Flutter project.
+Hotel Management System Mobile App - Technical Assessment from Neo Ai.
+
+---
+
+## Framework Used
+
+This project is built using the **Flutter** framework.
+
+---
+
+## How to Install and Run the Project
+
+### Prerequisites
+1. Install **Flutter SDK**: [Flutter Installation Guide](https://docs.flutter.dev/get-started/install).
+2. Install **Git**: [Git Installation Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+3. Ensure you have an IDE like **Visual Studio Code** or **Android Studio** installed.
+4. Set up an emulator or connect a physical device for testing.
+
+### Steps to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/hms_mobile_app.git
+
+2. Navigate to the project directory:
+    ```bash
+    cd hms_mobile_app
+
+3. Install the dependencies:
+    ```bash
+    flutter pub get
+
+4. Run the project:
+    ```bash
+    flutter run
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
